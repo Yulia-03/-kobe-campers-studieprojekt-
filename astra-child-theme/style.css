@@ -1,0 +1,27 @@
+/*
+Theme Name: Astra Child Theme
+Theme URI: https://wpastra.com/
+Author: Your name
+Author URI: https://your-site.dk/
+Description: Child theme based on Astra.
+Version: 1.0.0
+Template: astra
+*/
+.e-97b5a9c {
+    background-image: url("https://kobe-campers-studieprojekt.yulia.dk/wordpress/wp-content/uploads/2026/11/boelgeform-transparent.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1300px 400px;
+}
+.e-cdd9d31-71ebda5{
+	padding: 40px 40px 40px;
+	background-color: #003C66;
+	font-size: 20px;
+	transition: 0.3s;
+	}
+.e-cdd9d31-71ebda5:hover {
+    background-color: #E2EDF9 !important;
+    transform: translateY(-5px);
+	border: 2px solid #000000 !important;
+	color: #0000 !important;
+}
